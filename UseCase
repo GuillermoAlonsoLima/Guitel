@@ -1,1 +1,3 @@
-
+Nome: Verificar Quartos
+Fluxo Principal: Ao digitar algo, se buscará os quartos com as informações correspondentes;
+Fluxo alternativo: Não aparecerá nada se não houver quartos com as informações correspondentes;
