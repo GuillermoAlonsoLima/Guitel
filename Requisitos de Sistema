@@ -1,0 +1,23 @@
+Requisitos funcionais:
+*A tela inicial deve mostrar os quartos de acordo com o que foi especificado;
+*A parte de pesquisas deve permitir a pesquisa dos numeros dos quartos, o que oferecem,o tipo de quarto(casal,etc.)o preço e as datas 
+de reserva;
+*O preço deve estar dentro de uma faixa de preços;
+*A data deve estar dentro de um período, deverá somente mostrar os quartos disponíveis no período especificado;
+*Deve aparecer em uma tabela os quartos e suas informações resumidas;
+*Após clicar em um quarto, deve aparecer informações mais detalhadas do quarto clicado;
+*Na tela descrita acima deve-se permitir o cadastro da reserva do quarto com uma faixa de período de tempo semelhante ao do preço;
+*Após selecionar para reservar, deverá voltar á pagina inicial;
+*Na tela inicial, após o cadastro de reserva, deverá aparecer um botão que levará o usuário a tela onde mostrará as reservas;
+*Na tela descrita acima, as reservas serão mostradas da mesma forma que os quartos, mas com um botão que permitirá a deleção da reserva 
+ao lado;
+*Deverá se perguntar se o usuário realmente quer deletar a reserva;
+*As reservas somente devem ser cadastradas se não houver outra reserva no mesmo quarto no mesmo período de tempo, se não deverá aparecer
+um pop-up de erro;
+Requisitos não funcionais:
+*O sistema deve ser um site da internet;
+*O sistema deve ser feito em PHP;
+*O banco de dados onde serão cadastrados os quartos e as reservas deve ser o MySQL;
+*As cores do site devem estar na escala de cinza;
+Regras de negócio:
+*O cliente deve pagar somente com cartão;
