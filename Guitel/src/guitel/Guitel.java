@@ -16,6 +16,8 @@ public class Guitel extends javax.swing.JFrame {
      */
     public Guitel() {
         initComponents();
+        Verificar_Quartos verificar = new Verificar_Quartos();
+        verificar.setVisible(true);
     }
 
     /**
